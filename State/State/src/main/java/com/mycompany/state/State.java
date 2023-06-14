@@ -18,7 +18,7 @@ public class State {
         mario.pegarFlor();
         mario.levarDano();
         mario.levarDano();
-        
+        mario.levarDano();
         
     }
 }
